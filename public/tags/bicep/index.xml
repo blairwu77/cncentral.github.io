@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bicep on Cloud Native Central</title>
-    <link>https://cloudnativecentral.com/tags/bicep/</link>
+    <link>https://blairwu77.github.io/cncentral.github.io/tags/bicep/</link>
     <description>Recent content in Bicep on Cloud Native Central</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cloudnativecentral.com/tags/bicep/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blairwu77.github.io/cncentral.github.io/tags/bicep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fully Automated Kubernetes Cluster Deployment on Azure in Under 8 Minutes</title>
-      <link>https://cloudnativecentral.com/posts/fully-automated-kubernetes-cluster-deployment-on-azure-in-under-8-minutes/</link>
+      <link>https://blairwu77.github.io/cncentral.github.io/posts/fully-automated-kubernetes-cluster-deployment-on-azure-in-under-8-minutes/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://cloudnativecentral.com/posts/fully-automated-kubernetes-cluster-deployment-on-azure-in-under-8-minutes/</guid>
-      <description>&lt;p&gt;In an earlier article, I had written about &lt;a href=&#34;https://cloudnativecentral.com/posts/installing-and-configuring-kubernetes-cluster-using-kubeadm-on-ubuntu/&#34;&gt;provisioning a virtual Kubernetes cluster using kubeadm&lt;/a&gt;. I use this method on a laptop with limited resources. This is good to a large extent but not good enough when I want to scale my experiments and learning. This is where I started looking at creating my Kubernetes lab on Azure. I needed something that could spin fast and without manual intervention. Given my interest in the Bicep language, I wrote a Bicep template to perform this deployment.&lt;/p&gt;</description>
+      <guid>https://blairwu77.github.io/cncentral.github.io/posts/fully-automated-kubernetes-cluster-deployment-on-azure-in-under-8-minutes/</guid>
+      <description>&lt;p&gt;In an earlier article, I had written about &lt;a href=&#34;https://blairwu77.github.io/cncentral.github.io/posts/installing-and-configuring-kubernetes-cluster-using-kubeadm-on-ubuntu/&#34;&gt;provisioning a virtual Kubernetes cluster using kubeadm&lt;/a&gt;. I use this method on a laptop with limited resources. This is good to a large extent but not good enough when I want to scale my experiments and learning. This is where I started looking at creating my Kubernetes lab on Azure. I needed something that could spin fast and without manual intervention. Given my interest in the Bicep language, I wrote a Bicep template to perform this deployment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

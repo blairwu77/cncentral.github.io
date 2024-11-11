@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://cloudnativecentral.com/"
+baseURL = "https://blairwu77.github.io/cncentral.github.io/"
 languageCode = "en-us"
 title = "Cloud Native Central"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
