@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://blairwu77.github.io/cncentral.github.io/"
+baseURL = "https://cloudnativecentral.com/"
 languageCode = "en-us"
 title = "Cloud Native Central"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [pagination]
-pagerSize = 10
+pagerSize = 7
 
 
 #-------------------------------

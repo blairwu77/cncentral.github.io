@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/authors/ravikanth/</loc>
+    <loc>https://cloudnativecentral.com/authors/ravikanth/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/authors/</loc>
+    <loc>https://cloudnativecentral.com/authors/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/</loc>
+    <loc>https://cloudnativecentral.com/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/posts/</loc>
+    <loc>https://cloudnativecentral.com/posts/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/cloud-native/</loc>
+    <loc>https://cloudnativecentral.com/tags/cloud-native/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/containers/</loc>
+    <loc>https://cloudnativecentral.com/tags/containers/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/posts/devcontainers-for-cloud-native-application-development/</loc>
+    <loc>https://cloudnativecentral.com/posts/devcontainers-for-cloud-native-application-development/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/docker/</loc>
+    <loc>https://cloudnativecentral.com/tags/docker/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/docker-compose/</loc>
+    <loc>https://cloudnativecentral.com/tags/docker-compose/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/</loc>
+    <loc>https://cloudnativecentral.com/tags/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/azure/</loc>
+    <loc>https://cloudnativecentral.com/tags/azure/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/learning/</loc>
+    <loc>https://cloudnativecentral.com/tags/learning/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/red-hat/</loc>
+    <loc>https://cloudnativecentral.com/tags/red-hat/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/posts/using-bicep-to-provision-azure-red-hat-openshift-cluster/</loc>
+    <loc>https://cloudnativecentral.com/posts/using-bicep-to-provision-azure-red-hat-openshift-cluster/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/bicep/</loc>
+    <loc>https://cloudnativecentral.com/tags/bicep/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/posts/fully-automated-kubernetes-cluster-deployment-on-azure-in-under-8-minutes/</loc>
+    <loc>https://cloudnativecentral.com/posts/fully-automated-kubernetes-cluster-deployment-on-azure-in-under-8-minutes/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/kubernetes/</loc>
+    <loc>https://cloudnativecentral.com/tags/kubernetes/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/posts/installing-and-configuring-kubernetes-cluster-using-kubeadm-on-ubuntu/</loc>
+    <loc>https://cloudnativecentral.com/posts/installing-and-configuring-kubernetes-cluster-using-kubeadm-on-ubuntu/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/kubeadm/</loc>
+    <loc>https://cloudnativecentral.com/tags/kubeadm/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/tags/ubuntu/</loc>
+    <loc>https://cloudnativecentral.com/tags/ubuntu/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/about/</loc>
+    <loc>https://cloudnativecentral.com/about/</loc>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/contact/</loc>
+    <loc>https://cloudnativecentral.com/contact/</loc>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/elements/</loc>
+    <loc>https://cloudnativecentral.com/elements/</loc>
   </url><url>
-    <loc>https://blairwu77.github.io/cncentral.github.io/videos/</loc>
+    <loc>https://cloudnativecentral.com/videos/</loc>
   </url>
 </urlset>

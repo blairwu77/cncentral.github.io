@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Cloud Native Central</title>
-    <link>https://blairwu77.github.io/cncentral.github.io/authors/</link>
+    <link>https://cloudnativecentral.com/authors/</link>
     <description>Recent content in Authors on Cloud Native Central</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blairwu77.github.io/cncentral.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cloudnativecentral.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://blairwu77.github.io/cncentral.github.io/authors/ravikanth/</link>
+      <link>https://cloudnativecentral.com/authors/ravikanth/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://blairwu77.github.io/cncentral.github.io/authors/ravikanth/</guid>
+      <guid>https://cloudnativecentral.com/authors/ravikanth/</guid>
       <description>&lt;p&gt;Ravikanth [Ravi] Chaganti is a cloud and cloud-native enthusiast and a technologist working on multi-cloud infrastructure management and orchestration. He is an automation fanatic and started his career working on VB Scripting.&lt;/p&gt;</description>
     </item>
   </channel>
