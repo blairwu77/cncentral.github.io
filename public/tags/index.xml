@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cloud Native Central</title>
+    <link>https://cloudnativecentral.com/tags/</link>
+    <description>Recent content in Tags on Cloud Native Central</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cloudnativecentral.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud-Native</title>
+      <link>https://cloudnativecentral.com/tags/cloud-native/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>https://cloudnativecentral.com/tags/containers/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://cloudnativecentral.com/tags/docker/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker-Compose</title>
+      <link>https://cloudnativecentral.com/tags/docker-compose/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>https://cloudnativecentral.com/tags/azure/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>https://cloudnativecentral.com/tags/learning/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red Hat</title>
+      <link>https://cloudnativecentral.com/tags/red-hat/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/red-hat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bicep</title>
+      <link>https://cloudnativecentral.com/tags/bicep/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/bicep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://cloudnativecentral.com/tags/kubernetes/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubeadm</title>
+      <link>https://cloudnativecentral.com/tags/kubeadm/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/kubeadm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://cloudnativecentral.com/tags/ubuntu/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cloudnativecentral.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
