@@ -202,7 +202,7 @@
       text-decoration-color: var(--heading-font-color);
     }
 
-    &:first-child {
+    & {
       &::after {
         content: ",";
         margin-right: 4px;
@@ -216,7 +216,7 @@
     }
 
     &.article__author__hidden {
-      &:first-child {
+      & {
         &::after {
           content: none;
         }
