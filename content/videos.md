@@ -1,4 +1,0 @@
----
-layout: videos
-title: Videos
----
