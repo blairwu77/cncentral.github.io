@@ -1,4 +1,6 @@
 ---
-title: Cloud Native Central
-description: Cloud Native is the de-facto method of developing and deploying modern applications. The Cloud Native Central (CNC) is your one-stop source for learning cloud native technologies and stay up to date!
+title: "Team Name"
+description: "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."
 ---
+
+Welcome to our homepage!
